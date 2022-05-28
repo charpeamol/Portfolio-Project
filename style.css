@@ -47,7 +47,7 @@ html {
   .logo a {
     width: 76px;
     height: 20px;
-    font-family: 'Poppins';
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
@@ -62,7 +62,7 @@ html {
     position: absolute;
     width: 327px;
     height: 150px;
-    font-family: 'Poppins';
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
@@ -76,7 +76,7 @@ html {
     position: absolute;
     width: 327px;
     height: 146px;
-    font-family: 'Poppins';
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -105,7 +105,7 @@ background-size: cover; */
     height: 24px;
 
     /* Body / 2 - Bolder */
-    font-family: 'Poppins';
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 15px;

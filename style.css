@@ -1,0 +1,201 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+@media only screen and (max-width: 375px) {
+  .navImg1 {
+    width: 16px;
+    border: 2px solid #6070ff;
+    height: 0;
+    position: absolute;
+    top: 63px;
+    left: 323px;
+    right: 36px;
+  }
+
+  .navImg2 {
+    width: 16px;
+    border: 2px solid #6070ff;
+    height: 0;
+    position: absolute;
+    top: 68px;
+    left: 323px;
+    right: 36px;
+  }
+
+  .navImg3 {
+    width: 16px;
+    border: 2px solid #6070ff;
+    height: 0;
+    position: absolute;
+    top: 73px;
+    left: 323px;
+    right: 36px;
+  }
+
+  .logo a {
+    position: absolute;
+    width: 76px;
+    height: 20px;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    color: #6070ff;
+    top: 58px;
+    left: 24px;
+    right: 275px;
+    bottom: 640px;
+  }
+
+  .title-name {
+    position: absolute;
+    width: 327px;
+    height: 150px;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    color: #172b4d;
+    top: 206px;
+    left: 24px;
+    right: 24px;
+    bottom: 362px;
+  }
+
+  .title-intro {
+    position: absolute;
+    width: 327px;
+    height: 146px;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #344563;
+    top: 380px;
+    left: 24px;
+    right: 24px;
+    bottom: 204px;
+  }
+
+  .Backgroud {
+    position: absolute;
+    width: 392px;
+    height: 587.15px;
+    left: 0;
+    top: 104px;
+    background-image: url(image/background_img.png);
+    background-repeat: no-repeat;
+  }
+
+  .Connect {
+    position: absolute;
+    width: 117px;
+    height: 24px;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    color: #7f8cff;
+    left: 24px;
+    top: 511px;
+    right: 234px;
+    bottom: 168px;
+  }
+
+  .dontwrap {
+    white-space: nowrap;
+  }
+
+  .twiiter-symbol {
+    position: absolute;
+    width: 19.99px;
+    height: 19.96px;
+    left: 24px;
+    right: 331px;
+    top: 551px;
+    bottom: 136px;
+    background: #505f7900;
+  }
+
+  .linkedIn-Isymbol {
+    position: absolute;
+    width: 4.97px;
+    height: 13.72px;
+    left: 63px;
+    right: 307.03px;
+    top: 555px;
+    bottom: 136px;
+    background: #505f79;
+  }
+
+  .symbol-m {
+    position: absolute;
+    width: 20px;
+    height: 16px;
+    left: 103px;
+    right: 252px;
+    top: 552px;
+    bottom: 138px;
+    background: #505f7900;
+  }
+
+  .Cat-Symbol {
+    position: absolute;
+    width: 17.99px;
+    height: 20px;
+    left: 143px;
+    right: 214px;
+    top: 551px;
+    bottom: 136px;
+    background: #505f7900;
+  }
+
+  .linkedin-nSymbol {
+    position: absolute;
+    width: 12.71px;
+    height: 16.97px;
+    left: 70.29px;
+    right: 292px;
+    top: 552.03px;
+    bottom: 136px;
+    background: #505f7900;
+  }
+
+  .finger-Symbol {
+    position: absolute;
+    left: 180px;
+    right: 180.83px;
+    top: 551px;
+    bottom: 136px;
+    background: #505f7900;
+    width: 14.17px;
+    height: 20px;
+  }
+
+  .dot-Symbol {
+    position: absolute;
+    width: 4.97px;
+    height: 4.97px;
+    left: 63px;
+    right: 307.03px;
+    top: 549px;
+    bottom: 151px;
+    background: #505f7900;
+  }
+}
